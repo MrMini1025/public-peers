@@ -14,3 +14,7 @@ Yggdrasil configuration file to peer with these nodes.
 * Odessa, operated by [commagray](https://github.com/commagray)
   * `tcp://glimmy.092918.xyz:50001`
   * `tls://glimmy.092918.xyz:58008`
+
+* Lviv, operated by [lagemeet](mailto:lagemeet@disroot.org)
+  * `tcp://lagemeet.duckdns.org:22345`
+  * `tls://lagemeet.duckdns.org:22346`
